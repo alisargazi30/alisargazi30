@@ -14,7 +14,7 @@
 📫 راه ارتباطی:  
 - ایمیل: *mr.alireza.sargazi1@gmail.com*  
 - گیت‌هاب: [alisargazi30](https://github.com/alisargazi30)  
-- لینکدین: (در صورت داشتن اینجا بزنید)  
+- لینکدین: (به زودی)  
 
 ---
 
@@ -32,7 +32,7 @@
 📫 Contact:  
 - Email: *mr.alireza.sargazi1@gmail.com*  
 - GitHub: [alisargazi30](https://github.com/alisargazi30)  
-- LinkedIn: (Add your link here if available)  
+- LinkedIn: (Coming soon)  
 
 ---
 
