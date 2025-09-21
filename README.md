@@ -2,7 +2,7 @@
 
 <h1 align="center">سلام 👋 من علیرضا سرگزی هستم</h1>
 
-### 🧑‍💻 درباره من (فارسی)
+### 🧑‍💻 درباره من 
 - 🚀 برنامه‌نویس حرفه‌ای تحت وب با تجربه در توسعه‌ی *Front-end* و *Back-end*  
 - 💻 مسلط به *Python* و *JavaScript* در سطح پیشرفته  
 - 🎨 مهارت کامل در طراحی رابط کاربری با *HTML5, **CSS3, و **Responsive Design*  
@@ -20,7 +20,7 @@
 
 <h1 align="center">Hi 👋, I'm Alireza Sargazi</h1>
 
-### 🧑‍💻 About Me (English)
+### 🧑‍💻 About Me 
 - 🚀 Professional *Web Developer* experienced in both *Front-end* & *Back-end*  
 - 💻 Advanced knowledge of *Python* and *JavaScript*  
 - 🎨 Strong skills in *HTML5, **CSS3, and **Responsive Web Design*  
